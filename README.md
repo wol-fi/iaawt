@@ -1,5 +1,5 @@
 # IAAWT for Python
-Iterated Amplitude Adjusted Wavelet Transform translated from [Matlab](https://ch.mathworks.com/matlabcentral/fileexchange/62382-iterated-amplitude-adjusted-wavelet-transform-iaawt-for-time-series-randomisation) into Python.
+Iterated Amplitude Adjusted Wavelet Transform for Python.
 
 
 ## References
